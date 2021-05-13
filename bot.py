@@ -19,8 +19,8 @@ async def on_ready():
     )
 
 client.run(TOKEN)
-@bot.event
+'''@bot.event
 async def on_message_delete(message):
     Tracker_id = 815980145235591249   #這段放自己BOT的ID
     if message.author.id != Tracker_id:
-        await message.channel.send(F'{message.author.mention} 還敢偷刪訊息阿： {message.content}')
+        await message.channel.send(F'{message.author.mention} 還敢偷刪訊息阿： {message.content}')'''
