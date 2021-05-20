@@ -1,0 +1,48 @@
+{
+    "Url TW" : "https://bestdori.com/tool/eventtracker/tw/t10",
+    "Url JP" : "https://bestdori.com/tool/eventtracker/jp/t10",
+    "Icon" : "https://imgur.com/szOkO3p.png",
+
+    "Button TW" : "/html/body/div/div[3]/div[2]/div[2]/div[3]/div[2]/div[2]/div/div/div/a[3]",
+    "Button JP" : "/html/body/div/div[3]/div[2]/div[2]/div[3]/div[2]/div[2]/div/div/div/a[1]",
+    "Button close" : "/html/body/div/div[3]/div[2]/div[3]/a",
+    "Button interval" : "/html/body/div/div[4]/div[2]/div[1]/div[3]/div[6]/div[2]/div/div/div/a[3]",
+    
+    "Event title" : "/html/body/div/div[4]/div[2]/div[1]/div[3]/div[3]/div[2]/div/div/a/div[2]/div[1]",
+    "Event url" : "/html/body/div/div[4]/div[2]/div[1]/div[3]/div[3]/div[2]/div/div/a",
+    "Event type" : "/html/body/div/div[4]/div[2]/div[1]/div[3]/div[3]/div[2]/div/div/a/div[2]/div[2]",
+    "Event banner" : "/html/body/div/div[4]/div[2]/div[1]/div[3]/div[3]/div[2]/div/div/a/div[1]/div/img",
+
+    "Id" : ["/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[1]/td[3]/div[2]/a", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[2]/td[3]/div[2]/a", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[3]/td[3]/div[2]/a", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[4]/td[3]/div[2]/a", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[5]/td[3]/div[2]/a", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[6]/td[3]/div[2]/a", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[7]/td[3]/div[2]/a", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[8]/td[3]/div[2]/a", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[9]/td[3]/div[2]/a", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[10]/td[3]/div[2]/a"],
+    
+    "Name" : ["/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[1]/td[2]/div[1]/span/span", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[2]/td[2]/div[1]/span/span", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[3]/td[2]/div[1]/span/span", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[4]/td[2]/div[1]/span/span", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[5]/td[2]/div[1]/span/span", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[6]/td[2]/div[1]/span/span", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[7]/td[2]/div[1]/span/span", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[8]/td[2]/div[1]/span/span", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[9]/td[2]/div[1]/span/span", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[10]/td[2]/div[1]/span/span"],
+
+    "Pts" : ["/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[1]/td[3]/div[3]", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[2]/td[3]/div[3]", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[3]/td[3]/div[3]", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[4]/td[3]/div[3]", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[5]/td[3]/div[3]", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[6]/td[3]/div[3]", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[7]/td[3]/div[3]", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[8]/td[3]/div[3]", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[9]/td[3]/div[3]", 
+        "/html/body/div/div[4]/div[2]/div[1]/div[6]/div[3]/div/table/tbody/tr[10]/td[3]/div[3]"]
+}
